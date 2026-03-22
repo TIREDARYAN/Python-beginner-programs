@@ -1,0 +1,13 @@
+Hello Aryan this side,
+This is a sample text file for practice.
+
+Today I decided to learn Python and improve my coding skills.
+Sometimes things get confusing, but consistency is important.
+
+Error logs can help us understand what went wrong.
+Python makes file handling easy and powerful.
+
+Keep practicing daily.
+Never give up.
+
+End of file.
